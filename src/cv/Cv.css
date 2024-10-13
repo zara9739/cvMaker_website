@@ -1,0 +1,21 @@
+.cv-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 60%;
+  }
+  .cv-section {
+    margin-top: 20px;
+  }
+  .uploaded-image {
+    max-width: 100%;
+    height: 150px;
+    border-radius: 50%;
+  }
+  .single-line-input, .form-control-plaintext {
+    border: none;
+    outline: none;
+    background-color: #ccc;
+    border-bottom: 1px solid blue;
+    width: 100%;
+    padding: 5px 0;
+  }

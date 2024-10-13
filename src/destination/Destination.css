@@ -1,0 +1,23 @@
+.features-section {
+    background: #f8f9fa;
+  }
+  
+  .features-section h2 {
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  .features-section i {
+    color: #025add;
+    transition: transform 0.3s ease;
+  }
+  
+  .features-section i:hover {
+    transform: scale(1.1);
+  }
+  
+  .features-section p {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  

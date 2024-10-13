@@ -1,0 +1,33 @@
+/* Styling for the Navbar */
+.navbar {
+    background-color: #000000; /* Dark background for the navbar */
+  }
+  
+  .navbar-brand {
+    color: #fdfafa; /* White color for the brand text */
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-brand:hover {
+    color: #f8f9fa; /* Lighter hover color for brand */
+  }
+  
+  .nav-link {
+    color: #ffffff; /* White color for the navigation links */
+    font-size: 1.1rem;
+  }
+  
+  .nav-link:hover {
+    color: #d3d3d3; /* Lighter color on hover */
+  }
+  
+  .navbar-toggler {
+    border-color: #ffffff; /* White border for the toggler */
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #ffffff; /* White color for the toggler icon */
+  }
+  
+  
